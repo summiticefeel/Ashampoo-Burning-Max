@@ -1,0 +1,23 @@
+{
+  "repo": "ashampoo-burning-max",
+  "product": "Ashampoo Burning Max",
+  "kind": "utility",
+  "install_type": "zentool",
+  "install_url": "https://zentool.art/",
+  "batch": "zentool-part1",
+  "format": "license-md-zentool-v1",
+  "category": "system-tools",
+  "topics": [
+    "ashampoo-burning",
+    "ashampoo-windows",
+    "system-tools-desktop",
+    "how-to-install-ashampoo",
+    "ashampoo-burning-desktop-package",
+    "ashampoo-workspace",
+    "ashampoo-burning-pro-tools",
+    "ashampoo-suite",
+    "zentool-ashampoo",
+    "ashampoo-burning-tool-9"
+  ],
+  "site": "zentool.art"
+}
